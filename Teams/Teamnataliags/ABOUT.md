@@ -1,11 +1,11 @@
 
 # Teamnataliags
 
-I am Natalia and I do awsome things!
+I like creating innovative web applications!
 
 ## About us
 
-- Natalia: My name is Natalia, I use PHP, SQL, JavaScript, ActionScript, Visual Basic, Visual Basic Script.
+- Natalia: My name is Natalia, I like programming very much.
 
 ## Languages I love
 
